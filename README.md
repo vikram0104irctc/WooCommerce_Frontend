@@ -6,6 +6,9 @@ A modern **React-based dashboard** for visualizing and segmenting WooCommerce pr
 
 ---
 
+## Frontend URL - https://woo-commerce-frontend.vercel.app/
+## Backend URL - https://woocommerce-backend-lzlv.onrender.com/
+
 ## ✨ Key Features
 
 - 🛍️ **Product Gallery** with responsive card layouts
