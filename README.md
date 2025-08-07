@@ -120,7 +120,7 @@ npm run dev
 
 ### 🤖 AI Usage Notes
 ```
-⚙️ Initial Setup: Used Vite + React + TypeScript boilerplate
+⚙️ Initial Setup: Used Vite + React + JavaScript boilerplate
 
 ✨ UI Enhancements:
 
